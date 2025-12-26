@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "REPeatedOPtogeneticStimulation"
+message: "If you use this code or data, please cite the associated article."
+authors:
+  - family-names: Murano
+    given-names: Tomoyuki
+repository-code: "https://github.com/tmurano/REPeatedOPtogeneticStimulation"
+type: software
