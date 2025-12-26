@@ -1,0 +1,13 @@
+Mouse Name	Stim Type	OF_15min	CSI_index	LongTermDemat	Opt.Stim
+Control.1	Control	3948.8	0.224669604	OFF	OFF
+Control.2	Control	7478.5	0.4453125	OFF	OFF
+Control.3	Control	3639.7	0.825396825	OFF	OFF
+Control.4	Control	4460	0.532894737	OFF	OFF
+Stimx3 +2wks.1	Stimx3.2wks	5771.9	0.7	OFF	ON
+Stimx3 +2wks.2	Stimx3.2wks	4853.8	0.901574803	OFF	ON
+Stimx3 +2wks.3	Stimx3.2wks	5296.6	0.071661238	OFF	ON
+Stimx3 +2wks.4	Stimx3.2wks	2084.2	0.702380952	OFF	ON
+Stimx10 +2wks.1	Stimx10.2wks	7024	0.214285714	ON	ON
+Stimx10 +2wks.2	Stimx10.2wks	3382.9	0.547058824	ON	ON
+Stimx10 +2wks.3	Stimx10.2wks	5581.4	0.255506608	ON	ON
+Stimx10 +2wks.4	Stimx10.2wks	5532.6	0.356164384	ON	ON
